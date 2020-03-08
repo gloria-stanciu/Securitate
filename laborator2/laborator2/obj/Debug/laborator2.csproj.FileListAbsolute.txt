@@ -1,0 +1,9 @@
+C:\Users\stanc\Desktop\SSS\laborator2\laborator2\bin\Debug\laborator2.exe.config
+C:\Users\stanc\Desktop\SSS\laborator2\laborator2\bin\Debug\laborator2.exe
+C:\Users\stanc\Desktop\SSS\laborator2\laborator2\bin\Debug\laborator2.pdb
+C:\Users\stanc\Desktop\SSS\laborator2\laborator2\obj\Debug\laborator2.csprojAssemblyReference.cache
+C:\Users\stanc\Desktop\SSS\laborator2\laborator2\obj\Debug\laborator2.Form1.resources
+C:\Users\stanc\Desktop\SSS\laborator2\laborator2\obj\Debug\laborator2.Properties.Resources.resources
+C:\Users\stanc\Desktop\SSS\laborator2\laborator2\obj\Debug\laborator2.csproj.GenerateResource.cache
+C:\Users\stanc\Desktop\SSS\laborator2\laborator2\obj\Debug\laborator2.exe
+C:\Users\stanc\Desktop\SSS\laborator2\laborator2\obj\Debug\laborator2.pdb

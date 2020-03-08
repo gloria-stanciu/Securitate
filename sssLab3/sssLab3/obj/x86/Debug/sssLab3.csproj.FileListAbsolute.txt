@@ -1,0 +1,8 @@
+C:\Users\stanc\Desktop\SSS\sssLab3\sssLab3\bin\Debug\sssLab3.exe
+C:\Users\stanc\Desktop\SSS\sssLab3\sssLab3\bin\Debug\sssLab3.pdb
+C:\Users\stanc\Desktop\SSS\sssLab3\sssLab3\obj\x86\Debug\sssLab3.csprojAssemblyReference.cache
+C:\Users\stanc\Desktop\SSS\sssLab3\sssLab3\obj\x86\Debug\sssLab3.Form1.resources
+C:\Users\stanc\Desktop\SSS\sssLab3\sssLab3\obj\x86\Debug\sssLab3.Properties.Resources.resources
+C:\Users\stanc\Desktop\SSS\sssLab3\sssLab3\obj\x86\Debug\sssLab3.csproj.GenerateResource.cache
+C:\Users\stanc\Desktop\SSS\sssLab3\sssLab3\obj\x86\Debug\sssLab3.exe
+C:\Users\stanc\Desktop\SSS\sssLab3\sssLab3\obj\x86\Debug\sssLab3.pdb
